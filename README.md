@@ -1,11 +1,9 @@
 # Repositório de evolução em Angular (DIO)
 
+
+<img src="https://user-images.githubusercontent.com/97129532/235217440-22870d06-8517-40b6-8816-dddbe6d6cfd7.png" height="40"/>
+
 ### 💻 Potência Tech Angular Developer - Powered by iFood
 
-<center>
-  <img src="https://user-images.githubusercontent.com/97129532/235213494-4512bc86-0e72-4975-b758-e95947069d6e.png" height=210 />
-</center>
-
 ### Tarefas
-
 - [X] Criar um repositório
